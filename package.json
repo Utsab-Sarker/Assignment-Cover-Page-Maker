@@ -1,0 +1,8 @@
+{
+  "name": "assignment-cover-page-maker",
+  "version": "1.0.0",
+  "description": "NGDC - Assignment Cover Page Maker",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
