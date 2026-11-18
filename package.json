@@ -1,0 +1,22 @@
+{
+  "name": "assignment-cover-page-maker",
+  "version": "1.0.0",
+  "description": "NGDC Assignment Cover Page Maker",
+  "type": "module",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'Static HTML - no build required'",
+    "lint": "echo 'No linting configured for static HTML'"
+  },
+  "dependencies": {
+    "@vercel/analytics": "^1.4.1"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "assignment",
+    "cover-page",
+    "ngdc"
+  ],
+  "author": "",
+  "license": "MIT"
+}
